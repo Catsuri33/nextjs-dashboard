@@ -1,6 +1,6 @@
 ## Next.js App Router Course - Starter
 
-This is my version of the dshboard tutorial during my learning of NextJS.
+This is my version of the dashboard tutorial during my learning of NextJS.
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
